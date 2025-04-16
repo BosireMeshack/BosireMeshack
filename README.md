@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Computer Science student at Eötvös Loránd University (ELTE), a Backend Developer at Finesse Group Kft., and a passionate problem solver. Currently, I’m building a customized Airbnb advertising website as a personal project while diving deeper into Django for backend development.<br><br>Web development and soccer? Ask me anything! I love tackling challenging problems and constantly pushing my limits—because growth happens outside the comfort zone!
+A Backend Developer at Finesse Group Kft., and a passionate problem solver. Currently, I’m building a customized Airbnb advertising website as a personal project while diving deeper into Django for backend development.<br><br>Web development and soccer? Ask me anything! I love tackling challenging problems and constantly pushing my limits—because growth happens outside the comfort zone!
 
 
 ## 🌐 Socials:
